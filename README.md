@@ -1,6 +1,6 @@
 live demo : https://alamgirshoppingcart.netlify.app/
 
-# React Redux Shopping Cart
+# Shopping Cart
 
 This is a simple shopping cart project built using React and Redux, with data stored in local storage. It allows users to add and remove items from their shopping cart and view their cart's contents.
 
@@ -16,7 +16,7 @@ This is a simple shopping cart project built using React and Redux, with data st
 - React
 - Redux
 - Local Storage
-- SCSS (for styling)
+- SASS/SCSS (for styling)
 
 ## Getting Started
 
